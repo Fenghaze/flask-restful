@@ -4,7 +4,7 @@
     </h1>
 </center>
 
-[toc]
+[@toc]
 
 # 1 FLASK-API项目结构
 
@@ -12,7 +12,7 @@
 - `flask-script`：命令
 - `flask-sqlalchemy`：数据库
 
-![项目结构](.\项目结构.png)
+![项目结构](https://github.com/Fenghaze/flask-restful/blob/master/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 
 # 2 快速开始
 

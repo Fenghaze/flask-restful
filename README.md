@@ -12,7 +12,7 @@
 - `flask-script`：命令
 - `flask-sqlalchemy`：数据库
 
-![image-20200127111421359](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200127111421359.png)
+![项目结构](.\项目结构.png)
 
 # 2 快速开始
 
